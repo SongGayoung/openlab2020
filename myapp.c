@@ -5,6 +5,7 @@ int main()
 { 
    foo();
    myex();
-
+   myst();
+   
    return 0;
 }
