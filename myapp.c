@@ -4,6 +4,7 @@
 int main()
 { 
    foo();
+   myex();
 
    return 0;
 }
