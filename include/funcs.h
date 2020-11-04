@@ -2,5 +2,6 @@
 #define __FUNCS_H
 
 void foo();
+void myex();
 
 #endif
